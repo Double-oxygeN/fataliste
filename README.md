@@ -14,10 +14,6 @@ traP gamejam 2017/1/3 企画作品
 
 ZIPファイルを解凍してJARファイルを開く
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
 Copyright © 2017 Double_oxygeN
